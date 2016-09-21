@@ -15,7 +15,7 @@ Building
 
 Building on linux is tested using the autogen script. Tested with liblucamapi.so.2.0 on Ubuntu 12.04 64 bit.
 
-One first checkout run autogen.sh
+First run autogen.sh
 
 	$ chmod a+x autogen.sh
 	$ ./autogen.sh
